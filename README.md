@@ -87,7 +87,6 @@ npm run server
     "to":["demo@gmail.com","demo@gmail.com", "demo@gmail.com"]
 }
 ```
-![image](https://github.com/shraddha-gawde/reachInbox-assignment/assets/101090200/e0bbbdce-1ec4-46c4-8335-e049f7f5b5c7)
 
 ### For microsoft azur's OAuth2.0:
 
