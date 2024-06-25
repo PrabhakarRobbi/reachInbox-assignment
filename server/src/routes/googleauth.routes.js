@@ -258,7 +258,7 @@ const sendMail = async (data, token) => {
           <p style="font-size: 16px; color: #666;">Dear valued customer,</p>
           <p style="font-size: 16px; color: #666;">${content}</p>
           <p style="font-size: 16px; color: #666;">Best regards,</p>
-          <p style="font-size: 16px; color: #666;"><strong>Shraddha Gawde</strong><br>Reach-In Box</p>
+          <p style="font-size: 16px; color: #666;"><strong>Prabhakar Robbi</strong><br>Reach-In Box</p>
         </div>`
     };
 
